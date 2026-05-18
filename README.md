@@ -29,7 +29,7 @@
 ## **Required Equipment**
 |Digital Temp & RH Sensor|![Description](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/digital%20temperature.png?raw=true){{{width="200" height="auto"}}}|
 |-|-|
-|**Grove cable**|![Description](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Ultrasonic%20Sensor/only%20grove%20(test).png?raw=true){{{width="200" height="auto"}}}|
+| **Grove cable** | <img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Ultrasonic%20Sensor/only%20grove%20(test).png?raw=true" width="200" /> ||
 |**Computer or Tablet**|![Description](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Ultrasonic%20Sensor/computer%20or%20tablet.png?raw=true){{{width="200" height="auto"}}}|
 |**GoGo Board and USB-C cable**|![Description](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Ultrasonic%20Sensor/gogoboard%20and%20usb.png?raw=true){{{width="200" height="auto"}}}|
 
