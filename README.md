@@ -19,30 +19,32 @@
 |**Interface**| I²C (2-wire communication)|
 
 ## Block Code Reference
-|![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/Temp%20&%20RH%204.png?raw=true){{{width="160" height="auto"}}}| Use this block to read the temperature from the sensor in degrees Celsius (°C).|
+| <img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/Temp%20&%20RH%204.png?raw=true" width="160" /> | Use this block to read the temperature from the sensor in degrees Celsius (°C). |
 |-|-|
-|![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/Temp%20&%20RH%205.png?raw=true){{{width="150" height="auto"}}}|**Use this block to read the relative humidity from the sensor in percent (%).**|
+| <img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/Temp%20&%20RH%205.png?raw=true" width="150" /> | **Use this block to read the relative humidity from the sensor in percent (%).** |
 
-![Description](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Ultrasonic%20Sensor/Example%20code.png?raw=true){{{width="250" height="auto"}}}  
+<img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Ultrasonic%20Sensor/Example%20code.png?raw=true" width="250" />
+
 [**Download the working code here**](https://code.gogoboard.org/#/program/8fd04527-d891-4830-b3bf-3985969c1ab1)
 
 ## **Required Equipment**
-|Digital Temp & RH Sensor|![Description](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/digital%20temperature.png?raw=true){{{width="200" height="auto"}}}|
+| Equipment | Image |
 |-|-|
-| **Grove cable** | <img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Ultrasonic%20Sensor/only%20grove%20(test).png?raw=true" width="200" /> ||
-|**Computer or Tablet**|![Description](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Ultrasonic%20Sensor/computer%20or%20tablet.png?raw=true){{{width="200" height="auto"}}}|
-|**GoGo Board and USB-C cable**|![Description](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Ultrasonic%20Sensor/gogoboard%20and%20usb.png?raw=true){{{width="200" height="auto"}}}|
+| Digital Temp & RH Sensor | <img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/digital%20temperature.png?raw=true" width="200" /> |
+| **Grove cable** | <img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Ultrasonic%20Sensor/only%20grove%20(test).png?raw=true" width="200" /> |
+| **Computer or Tablet** | <img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Ultrasonic%20Sensor/computer%20or%20tablet.png?raw=true" width="200" /> |
+| **GoGo Board and USB-C cable** | <img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Ultrasonic%20Sensor/gogoboard%20and%20usb.png?raw=true" width="200" /> |
 
 ## **How to use**
 **1. Connect the GoGo Board**
 - Connect the GoGo Board to your computer or tablet via USB-C cable or Wi-Fi
-![](https://github.com/thegogoboard/gogodoc/blob/main/Automation/Image%20(91).jpg?raw=true){{{width="500" height="auto"}}}
+<img src="https://github.com/thegogoboard/gogodoc/blob/main/Automation/Image%20(91).jpg?raw=true" width="500" />
 
 
 **2. Connect the Temp & RH Sensor**
 - Connect the Temp & RH Sensor to a Grove cable, then plug the cable into the black Add-ons port on the GoGo Board.
 
-|![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/Temp%20&%20RH.gif?raw=true){{{width="400" height="auto"}}}|![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/digital%20temperature%20with%20board%20(new%20version).png?raw=true){{{width="400" height="auto"}}}|
+| <img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/Temp%20&%20RH.gif?raw=true" width="400" /> | <img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/digital%20temperature%20with%20board%20(new%20version).png?raw=true" width="400" /> |
 |-|-|
 
 
@@ -54,11 +56,12 @@
 **2. Add the Digital Temperature & Relative Humidity Sensor extension:**
 - Click on the **Add Extension** category
 
-![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/Temp%20&%20RH%201.gif?raw=true){{{width="1000" height="auto"}}}
+| <img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/Temp%20&%20RH.gif?raw=true" width="400" /> | <img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/digital%20temperature%20with%20board%20(new%20version).png?raw=true" width="400" /> |
+|-|-|
 
 - Select **Official**, then click the **[ Multi ] - Temperature and Relative Humidity Sensor** card. The system will automatically return to the main page.
 
-![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/Temp%20&%20RH%202.gif?raw=true){{{width="1000" height="auto"}}}
+<img src="https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/Temp%20&%20RH%202.gif?raw=true" width="1000" />
 
 
 **3. Add sensor command blocks:**
